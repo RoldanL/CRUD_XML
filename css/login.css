@@ -1,0 +1,133 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.div1{
+    background-color: rgb(0, 0, 0);
+    background-color: transparent;
+    border: none;
+    height: 490px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    box-shadow: 3px 3px 20px 10px;
+    
+}
+
+.inside{
+    text-align: center;
+    font-size: 27px;
+    margin-top: 40px;
+    color: rgb(0, 0, 0);
+    font-family: Arial;
+    padding-top: 12px;
+    font-weight: bold;
+    
+
+}
+
+.username-bar{
+    background-color: white;
+    border: none;
+    box-shadow: 2px 2px 10px 4px;
+    margin-left: 23px;
+    margin-right: 23px;
+    font-weight: bold;
+    width: 347px;
+    height: 28px;
+}
+
+.password-bar{
+    background-color: white;
+    border: none;
+    box-shadow: 2px 2px 10px 4px;
+    margin-left: 23px;
+    margin-right: 23px;
+    font-weight: bold;
+    width: 347px;
+    height: 28px;
+}
+
+.username, .password{
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    margin-left: 10px;
+    margin-bottom: 2px;
+}
+
+.password{
+    margin-top: 30px;
+}
+
+.check{
+    margin-top: 40px;
+    margin-left: 30px;
+    opacity: 0.6;
+}
+
+.remember{
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    font-family: arial;
+}
+
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    height: 30px;
+    width: 347px;
+    background-color: rgb(221, 31, 31);
+    border: none;
+    font-size: 19px;
+    font-family: arial;
+    margin-top: 30px;
+    color: white;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+button:active{
+    opacity: 0.6;
+}
+
+.create{
+    margin-left: 147px;
+    color: rgb(0, 0, 0);
+    
+}
+
+.create:link{
+    text-decoration: none;
+}
+
+.create:hover{
+    opacity: 0.8;
+}
+
+.create:active{
+    opacity: 0.6;
+}
+
+.design{
+    margin-top: 40px;
+    color: rgb(0, 0, 0);
+    margin-left: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+h4{
+    margin-left: 90px;
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css"?>
+<informations>
+
+    <information>
+        <username>Roldan</username>
+        <password>admin</password>
+    </information>
+
+    <information>
+        <username>Libiran</username>
+        <password>admin123</password>
+    </information>
+
+    <information>
+        <username>RoldanLibiran</username>
+        <password>admin</password>
+    </information>
+
+    <information>
+        <username>Ortega</username>
+        <password>admin</password>
+    </information>
+
+    <information>
+        <username>q</username>
+        <password>q</password>
+    </information>
+
+<information><username>qq</username><password>qq</password></information></informations>

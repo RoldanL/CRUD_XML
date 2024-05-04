@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css"?>
+<movies>
+
+	<movie id="102">
+		<title>She's Dating the Gangster</title>
+        <actor>Daniel Padilla</actor>
+		<genre>Drama</genre>
+		<date>2023-12-25</date>
+	</movie>
+
+    <movie id="103">
+		<title>She's Dating the Gangster</title>
+        <actor>Daniel Padilla</actor>
+		<genre>Drama</genre>
+		<date>2023-12-25</date>
+	</movie>
+
+    <movie id="104">
+		<title>She's Dating the Gangster</title>
+        <actor>Daniel Padilla</actor>
+		<genre>Drama</genre>
+		<date>2023-12-25</date>
+	</movie>
+
+    
+<movie id="asc"><title>asd</title><actor>asd</actor><genre/><date>2024-05-28</date></movie></movies>
